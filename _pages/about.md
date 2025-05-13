@@ -19,25 +19,26 @@ Experience
 
 Competition
 ======
-- WSDM Cup - Multilingual Chatbot Arena
+- **WSDM Cup - Multilingual Chatbot Arena**
   - Bronze Medal (100/950)
 
-- Home Credit - Credit Risk Model Stability
+- **Home Credit - Credit Risk Model Stability**
   - Golden Medal (17/3856)
 
-- Kaggle - LLM Science Exam
+- **Kaggle - LLM Science Exam**
   - Bronze Medal (138/2664)
 
-- MDI Green Space Data Challenge 
+- **MDI Green Space Data Challenge**
   - First Prize and Student Prize
 
 Publication
 ======
-- Efficient and Secure Federated Learning via Enhanced Quantization and Encryption  
+- **Efficient and Secure Federated Learning via Enhanced Quantization and Encryption**
   - IEEE Trustcom 2024  
   - Oral Presentation
 
 Education
 ======
-- 2022.08 - 2024.05, Georgetown University, Washington D.C., United States
-  - Master of Data Science 
+- **Georgetown University**
+  - Master of Data Science
+  - 2022.08 - 2024.05, Washington D.C., United States
