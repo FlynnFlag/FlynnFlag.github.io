@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate from Georgetown University and passionate Machine Learning Engineer at ZTE, where we build multimodel foundation models.
-
-I quickly transitioned into a tech leadership role and now lead the Audio Team.
+<span style="font-size: 18px;">I am a recent graduate from Georgetown University and passionate Machine Learning Engineer at ZTE, where we build multimodel foundation models.
+I quickly transitioned into a tech leadership role and now lead the Audio Team.<span>
 
 Experience
 ======
-2024.07 - Now , ZTE Coroporation, Shanghai, China
+***ZTE Coroporation | 2024.07 - Now | Shanghai, China***
 
 I lead the Audio Team to:
 1. Built scalable ASR/TTS/Chat audio data pipelines to power AI-driven voice applications.
