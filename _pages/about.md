@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 <span style="font-size: 16px;">I am a recent graduate from Georgetown University and passionate Machine Learning Engineer at ZTE, where we build multimodel foundation models.
+
 I quickly transitioned into a tech leadership role and now lead the Audio Team.<span>
 
 Experience
 ======
-***ZTE Coroporation | 2024.07 - Now | Shanghai, China***
+**ZTE Coroporation** 
+*2024.07 - Now | Shanghai, China*
 
 <span style="font-size: 16px;">
 I lead the Audio Team to:
@@ -21,8 +23,9 @@ I lead the Audio Team to:
  - Enhanced emotional expressiveness in speech synthesis through advanced post-training techniques.
  - Developed end-to-end Spoken Dialogue Models for more natural and engaging human-computer interactions.
  - Joint training unified MLLM(image+audio+text)
-</span>
+<span>
 
 Competition
 ======
-***WSDM Cup - Multilingual Chatbot Arena | Bronze Medal(100/950)***
+**WSDM Cup - Multilingual Chatbot Arena**
+*Bronze Medal(100/950)*
