@@ -45,5 +45,5 @@ Oral Presentation
 
 Education
 ======
-2022.08 - 2024.05, Georgetown University
-- Master of Data Science 
+- 2022.08 - 2024.05, Georgetown University, Washington D.C., United States
+  - Master of Data Science 
