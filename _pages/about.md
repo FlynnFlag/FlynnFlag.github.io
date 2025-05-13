@@ -14,6 +14,7 @@ I quickly transitioned into a tech leadership role and now lead the Audio Team.<
 Experience
 ======
 **ZTE Coroporation** 
+
 *2024.07 - Now | Shanghai, China*
 
 <span style="font-size: 16px;">
@@ -28,4 +29,5 @@ I lead the Audio Team to:
 Competition
 ======
 **WSDM Cup - Multilingual Chatbot Arena**
+
 *Bronze Medal(100/950)*
