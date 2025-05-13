@@ -12,8 +12,7 @@ I quickly transitioned into a tech leadership role and now lead the Audio Team.
 
 Experience
 ======
-**MLLM Machine Learning Engineer, ZTE Coroporation**   
-*2024.07 - Now, Shanghai, China*
+- **2024.07 - Now, MLLM Machine Learning Engineer, ZTE Coroporation,  Shanghai, China**
 
 I lead the Audio Team to:  
 1. Built scalable audio data pipelines for ASR, TTS, and Chat to power AI-driven voice applications.  
@@ -40,7 +39,7 @@ Competition
 Publication
 ======
 Efficient and Secure Federated Learning via Enhanced Quantization and Encryption  
-IEEE Trustcom 2024
+IEEE Trustcom 2024  
 Oral Presentation
 
 Education
