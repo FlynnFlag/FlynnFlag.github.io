@@ -13,15 +13,16 @@ I quickly transitioned into a tech leadership role and now lead the Audio Team.<
 Experience
 ======
 ***ZTE Coroporation | 2024.07 - Now | Shanghai, China***
+
 <span style="font-size: 16px;">
 I lead the Audio Team to:
-1. Built scalable ASR/TTS/Chat audio data pipelines to power AI-driven voice applications.
-2. Trained and compressed ASR/TTS models on edge devices for low-latency processing.
-3. Enhanced emotional expressiveness in speech synthesis through advanced post-training techniques.
-4. Developed end-to-end Spoken Dialogue Models for more natural and engaging human-computer interactions.
-5. Joint training unified MLLM(image+audio+text)
+ - Built scalable ASR/TTS/Chat audio data pipelines to power AI-driven voice applications.
+ - Trained and compressed ASR/TTS models on edge devices for low-latency processing.
+ - Enhanced emotional expressiveness in speech synthesis through advanced post-training techniques.
+ - Developed end-to-end Spoken Dialogue Models for more natural and engaging human-computer interactions.
+ - Joint training unified MLLM(image+audio+text)
 </span>
 
 Competition
 ======
-
+***WSDM Cup - Multilingual Chatbot Arena | Bronze Medal(100/950)***
