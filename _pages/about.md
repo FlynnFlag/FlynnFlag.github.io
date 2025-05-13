@@ -15,18 +15,15 @@ Experience
 ======
 **MLLM Machine Learning Engineer, ZTE Coroporation** 
 
-*2024.07 - Now, Shanghai, China*
+<span style="font-size: 16px;">*2024.07 - Now, Shanghai, China*</span>
 
-<span style="font-size: 16px;">
-I lead the Audio Team to:
-<ul>
-  <li>Built scalable ASR/TTS/Chat audio data pipelines to power AI-driven voice applications.</li>
-  <li>Trained and compressed ASR/TTS models on edge devices for low-latency processing.</li>
-  <li>Enhanced emotional expressiveness in speech synthesis through advanced post-training techniques.</li>
-  <li>Developed end-to-end Spoken Dialogue Models for more natural and engaging human-computer interactions.</li>
-  <li>Joint training unified MLLM (image + audio + text).</li>
-</ul>
-</span>
+<span style="font-size: 16px;">I lead the Audio Team to:</span>
+- Built scalable audio data pipelines for ASR, TTS, and Chat to power AI-driven voice applications.
+- Trained and compressed ASR/TTS models for low-latency on-device deployment.
+- Enhanced emotional expressiveness in TTS via advanced post-training techniques.
+- Developed end-to-end spoken dialogue models for more natural HCI.
+- Jointly trained multimodal models (image + audio + text) for unified MLLM tasks.
+
 
 
 Competition
