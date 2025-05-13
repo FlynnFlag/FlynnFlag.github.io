@@ -13,7 +13,7 @@ I quickly transitioned into a tech leadership role and now lead the Audio Team.
 Experience
 ======
 - **MLLM Machine Learning Engineer**
-  - ZTE Coroporation  
+  - ZTE Corporation, Full-time
   - 2024.07 - Now, Shanghai, China 
 
 
