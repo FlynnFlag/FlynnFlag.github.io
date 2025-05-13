@@ -28,15 +28,16 @@ Competition
 **WSDM Cup - Multilingual Chatbot Arena**  
 *Bronze Medal (100/950)*
 
-**Home Credit - Credit Risk Model Stability**
+**Home Credit - Credit Risk Model Stability**  
 *Golden Medal(17/3856)*
 
-**Kaggle - LLM Science Exam**
+**Kaggle - LLM Science Exam**  
 *Bronze Medal (138/2664)*
 
-**MDI Green Space Data Challenge** 
+**MDI Green Space Data Challenge**  
 *First Prize and Student Prize*
 
 Education
 ======
-**Georgetown University, Master of Data Science**
+2022.08 - 2024.05, Georgetown University
+- Master of Data Science 
