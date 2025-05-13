@@ -37,6 +37,12 @@ Competition
 **MDI Green Space Data Challenge**  
 *First Prize and Student Prize*
 
+Publication
+======
+Efficient and Secure Federated Learning via Enhanced Quantization and Encryption  
+IEEE Trustcom 2024
+Oral Presentation
+
 Education
 ======
 2022.08 - 2024.05, Georgetown University
